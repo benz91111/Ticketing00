@@ -1,0 +1,15 @@
+# Discord
+discord.py>=2.3.0
+
+# Web Framework
+Flask>=2.3.0
+Werkzeug>=2.3.0
+
+# Environment
+python-dotenv>=1.0.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# Utilities
+aiohttp>=3.8.0
